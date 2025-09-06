@@ -11,9 +11,6 @@ Contoh layout diambil dari tutorial resmi Flutter Codelabs, kemudian dimodifikas
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 125011" src="https://github.com/user-attachments/assets/cafaa987-0c90-4292-9362-91054fd13899" />
 
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-06 125043" src="https://github.com/user-attachments/assets/aa0c9103-7620-4f55-bb1e-3acfaf90e614" />
-
-
 <img width="1920" height="1080" alt="Screenshot 2025-09-06 125234" src="https://github.com/user-attachments/assets/1927cbd6-673e-4592-a9f1-0416639f67ab" />
 
 
